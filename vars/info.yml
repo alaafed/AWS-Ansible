@@ -1,0 +1,6 @@
+aws_id: AKIA6CG57LKL2ESYCNMY
+aws_key: LVRSJYQyLsmnCPk/mTs4M1WUhDolADlHoNJMEtyw
+aws_region: us-east-2
+ssh_keyname: AWS-VPC-ANSIBLE 
+remote_user: testuser
+
